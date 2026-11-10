@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./logo.svg" width="160">
+<img src="https://github.com/VoltHook/.github/blob/main/profile/logo.png?raw=true" width="160">
 </p>
 
 <h1 align="center">Welcome to VoltHook</h1>
@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/你的组织名/VoltHook">文档</a> ·
-<a href="https://github.com/你的组织名/VoltHook/issues">反馈</a>
+<a href="https://github.com/VoltHook">组织主页</a> ·
+<a href="https://github.com/VoltHook/VoltHook/issues">反馈</a>
 </p>
 
 ---
