@@ -3,9 +3,17 @@
 </p>
 
 <h1 align="center">Welcome to VoltHook</h1>
-<p align="center">一句话介绍你的项目，比如：轻量网络调试工具箱 / 局域网扫描工具</p>
+<p align="center">轻量 Windows 网络全能工具箱｜局域网扫描、端口探测、Ping调试</p>
 
 <p align="center">
-<a href="https://github.com/xxx/VoltHook">文档</a> ·
-<a href="https://github.com/xxx/VoltHook/issues">反馈</a>
+<img src="https://img.shields.io/badge/Windows-10%2B-blue">
+<img src="https://img.shields.io/badge/License-MIT-green">
+<img src="https://img.shields.io/badge/Open-Source-orange">
 </p>
+
+<p align="center">
+<a href="https://github.com/你的组织名/VoltHook">文档</a> ·
+<a href="https://github.com/你的组织名/VoltHook/issues">反馈</a>
+</p>
+
+---
