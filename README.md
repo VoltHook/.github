@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/VoltHook/.github/blob/main/profile/logo.png?raw=true" width="160">
+<img src="https://github.com/VoltHook/.github/blob/main/profile/logo.png?raw=true" width="800">
 </p>
 
 <h1 align="center">Welcome to VoltHook</h1>
